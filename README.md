@@ -1,2 +1,2 @@
-# Expense Tracker
-Simple Python app.Run with: "python main.py"
+##  Description
+ This is a stater project for tracking monthly expenses. You can add features as you learn!
